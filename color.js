@@ -8,4 +8,6 @@ function sayMybrand(){
     return brand
 }
 
+let name = `Avicenna is a coder`
+
 export {sayMyColor, sayMybrand}
