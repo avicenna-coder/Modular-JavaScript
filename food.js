@@ -3,6 +3,9 @@ function sayMyFood(){
     return food
 }
 
+let drink = `LacaSera`
+
+
 export default sayMyFood
 
 
